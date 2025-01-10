@@ -8,6 +8,7 @@ declare module 'vue' {
     AppTopBar: typeof import('./src/components/AppTopBar.vue')['default']
     AuthForm: typeof import('./src/components/AuthForm.vue')['default']
     BrandLogo: typeof import('./src/components/images/BrandLogo.vue')['default']
+    Example: typeof import('./src/components/Example.vue')['default']
     ICarbonLogout: typeof import('~icons/carbon/logout')['default']
     ICarbonMenu: typeof import('~icons/carbon/menu')['default']
     ICarbonMoon: typeof import('~icons/carbon/moon')['default']
